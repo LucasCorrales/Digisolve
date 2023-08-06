@@ -123,12 +123,6 @@ input[type=submit]:hover{
 
 /**** NAVIGATION ****/
 
-nav{
-	width: 750px;
-	background-color: #000;
-	
-}
-
 .main-nav{
 	list-style: none;
 		float: right;
